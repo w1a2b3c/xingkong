@@ -1,3 +1,11 @@
+![image](https://github.com/user-attachments/assets/1a34f4c8-8a0c-4763-9434-3972b18e713b)
+![image](https://github.com/user-attachments/assets/8b21e9d7-cf64-42ca-9e6b-3c3ce6de4d05)
+![image](https://github.com/user-attachments/assets/fcd83fea-e973-4ed3-8796-d248b60f1525)
+![image](https://github.com/user-attachments/assets/8ed433ec-e4f7-4f02-9bf9-653e27f06570)
+![image](https://github.com/user-attachments/assets/7ec05dd3-575f-4d92-89d6-3da2242b2d78)
+![image](https://github.com/user-attachments/assets/968ed6d3-bb00-4c5c-9f01-1421698e2784)
+
+
 “星梦轨迹-中国式经纪人”是一款明星养成类真人互动游戏，在这里玩家是明星艺人经纪公司中的一名新人经纪人，在游戏中你会遇到你生涯中将要负责的4位性格不同的艺人，将她们培养成业界的传奇
 
 充满策略性的行程安排
